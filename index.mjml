@@ -1,4 +1,4 @@
-<mjml>
+<mjml lang ="pt">
 
   <mj-head>
 
@@ -6,17 +6,23 @@
       <mj-text align="center" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
-
+    
+	<mj-title>Hello MJML</mj-title>
+    
   </mj-head>
 
   <mj-body background-color="#eee">
     <mj-section>
-
       <mj-column>
-        <mj-text>
-          First column
+        <mj-text color="#f77f07">
+       <a href="https://brunolajoso.github.io/NewsletterEx1/"
+          target="_blank">
+         <span style="font-size:11px"> 
+          Versao online
+          </span>
         </mj-text>
       </mj-column>
+    </mj-section>
 
       <mj-column>
         <mj-text>
@@ -25,5 +31,22 @@
       </mj-column>
 
     </mj-section>
+    
+    <mj-section background-color="#0693e3">
+    <mj-column>
+    <mj-button border-radius="50px" background-color="#f77f07" href="https://www.icespicemusic.com/" color ="#fff">
+    LIKE GRAH
+    </mj-button>
+      
+  <mj-column>
+        <mj-image width="300px" src="img/ice-cube.png" />
+      </mj-column>
+      
+    <mj-column>
+      <mj-image width="300px" src="img/spices.png" />
+
+      
+      
+      </mj-column>
   </mj-body>
 </mjml>
