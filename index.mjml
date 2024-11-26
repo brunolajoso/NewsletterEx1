@@ -47,8 +47,7 @@
     <mj-column>
       <mj-image width="300px" src="img/spices.png" />
       </mj-image>
-     
-      
+            
       </mj-column>
   </mj-body>
 </mjml>
