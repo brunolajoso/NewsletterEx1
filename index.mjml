@@ -24,28 +24,30 @@
       </mj-column>
     </mj-section>
 
-      <mj-column>
-        <mj-text>
-          Second column
-        </mj-text>
-      </mj-column>
+      
+     
 
     </mj-section>
     
     <mj-section background-color="#0693e3">
+
     <mj-column>
     <mj-button border-radius="50px" background-color="#f77f07" href="https://www.icespicemusic.com/" color ="#fff">
     LIKE GRAH
     </mj-button>
+      </mj-column>mj-section background-color="#0693e3">
       
+   
   <mj-column>
         <mj-image width="300px" src="img/ice-cube.png" />
       </mj-column>
+      </mj-image>
+
       
     <mj-column>
       <mj-image width="300px" src="img/spices.png" />
-
-      
+      </mj-image>
+     
       
       </mj-column>
   </mj-body>
